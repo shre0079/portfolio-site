@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.74af1252.css",
+    "main.js": "/portfolio-site/static/js/main.067ee3f9.js",
+    "static/js/557.f03bfcd8.chunk.js": "/portfolio-site/static/js/557.f03bfcd8.chunk.js",
+    "static/js/102.19fd884a.chunk.js": "/portfolio-site/static/js/102.19fd884a.chunk.js",
+    "static/js/199.b0bfbf86.chunk.js": "/portfolio-site/static/js/199.b0bfbf86.chunk.js",
+    "static/js/883.ee5a4f31.chunk.js": "/portfolio-site/static/js/883.ee5a4f31.chunk.js",
+    "static/js/641.04fce469.chunk.js": "/portfolio-site/static/js/641.04fce469.chunk.js",
+    "static/css/544.1de6ca14.chunk.css": "/portfolio-site/static/css/544.1de6ca14.chunk.css",
+    "static/js/544.ab5559a8.chunk.js": "/portfolio-site/static/js/544.ab5559a8.chunk.js",
+    "static/js/270.f81b801c.chunk.js": "/portfolio-site/static/js/270.f81b801c.chunk.js",
+    "static/js/533.81b1bf8b.chunk.js": "/portfolio-site/static/js/533.81b1bf8b.chunk.js",
+    "static/media/Shreyash-Mishra-Resume_Apr26.pdf": "/portfolio-site/static/media/Shreyash-Mishra-Resume_Apr26.336e9466a64db8b41ecf.pdf",
+    "static/media/shreyash-pfp.jpg": "/portfolio-site/static/media/shreyash-pfp.bd392e93afbe588f65c3.jpg",
+    "static/media/meta-react-advanced.png": "/portfolio-site/static/media/meta-react-advanced.ab89850ae5b40cb8d932.png",
+    "static/media/cisco-network-technician.png": "/portfolio-site/static/media/cisco-network-technician.ccd65dc0b90b25f5fa4b.png",
+    "static/media/awsSAA.png": "/portfolio-site/static/media/awsSAA.5de5ac5041c48c198d8b.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.74af1252.css.map": "/portfolio-site/static/css/main.74af1252.css.map",
+    "main.067ee3f9.js.map": "/portfolio-site/static/js/main.067ee3f9.js.map",
+    "557.f03bfcd8.chunk.js.map": "/portfolio-site/static/js/557.f03bfcd8.chunk.js.map",
+    "102.19fd884a.chunk.js.map": "/portfolio-site/static/js/102.19fd884a.chunk.js.map",
+    "199.b0bfbf86.chunk.js.map": "/portfolio-site/static/js/199.b0bfbf86.chunk.js.map",
+    "883.ee5a4f31.chunk.js.map": "/portfolio-site/static/js/883.ee5a4f31.chunk.js.map",
+    "641.04fce469.chunk.js.map": "/portfolio-site/static/js/641.04fce469.chunk.js.map",
+    "544.1de6ca14.chunk.css.map": "/portfolio-site/static/css/544.1de6ca14.chunk.css.map",
+    "544.ab5559a8.chunk.js.map": "/portfolio-site/static/js/544.ab5559a8.chunk.js.map",
+    "270.f81b801c.chunk.js.map": "/portfolio-site/static/js/270.f81b801c.chunk.js.map",
+    "533.81b1bf8b.chunk.js.map": "/portfolio-site/static/js/533.81b1bf8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74af1252.css",
+    "static/js/main.067ee3f9.js"
+  ]
+}
