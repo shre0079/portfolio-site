@@ -1,7 +1,5 @@
 import React from "react";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
-import { BsTwitterX } from "react-icons/bs";
-
 import { ReactTyped } from "react-typed";
 import shreyashPic from "../Assets/shreyash-pfp.jpg";
 import { profile } from "../data/profile";

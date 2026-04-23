@@ -1,7 +1,7 @@
 // // src/components/Certifications.js
 import React, { useState } from 'react';
 import ReactCardFlip from 'react-card-flip';
-import { FaAws, FaGithub } from 'react-icons/fa';
+import { FaAws } from 'react-icons/fa';
 import { SiMeta } from "react-icons/si";
 import { certifications } from '../data/certifications';
 import { SiCisco } from "react-icons/si";
