@@ -2,7 +2,7 @@
   "name": "shreyash-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shreyashsrivastava29.github.io",
+  "homepage": "https://shre0079.github.io/portfolio-site",
   "main": "index.js",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
